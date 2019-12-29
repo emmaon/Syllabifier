@@ -13,7 +13,7 @@ Syllabifies words outputting ARPAbet phoneme strings
 > AN  
 > EXAMPLE  
 
-- *\[name\].txt* (optional) : additional pronunciation file for words not included in the CMU Pronouncing Dictionary 
+- *\[dictionary_name\].txt* (optional) : additional pronunciation file for words not included in the CMU Pronouncing Dictionary 
 (can be generated using [this tool](http://www.speech.cs.cmu.edu/tools/lextool.html))
 > THIS	DH IH S  
 > IS	IH Z  
